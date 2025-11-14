@@ -1,0 +1,36 @@
+name,description
+Project,Root node representing a single project
+Header,Metadata about the project document
+Participant,Any human involved with the project
+ProjectOverview,High level intent and context
+Stakeholder,Stakeholder with responsibilities in the project
+ScopeOfWork,Summary of what is in scope
+Deliverable,A concrete output of the project
+Task,A unit of work needed to realize deliverables
+InputAsset,Existing data or artifacts used by the project
+OutOfScopeItem,Explicitly excluded items
+SuccessCriteria,Container for metrics SLOs and acceptance criteria
+Metric,Quantitative measure of success
+SLO,Service Level Objective
+AcceptanceCriterion,Condition under which a deliverable is accepted
+Risk,Risk item with likelihood and impact
+Assumption,Assumption about data operations or environment
+Constraint,Generic constraint on the project
+TimeConstraint,Time related constraint
+BudgetConstraint,Budget related constraint
+TechConstraint,Technology related constraint
+ComplianceConstraint,Compliance or legal constraint
+EnvConstraint,Environmental or runtime constraint
+ProjectPlan,High level plan for execution
+Milestone,Checkpoint with a due date
+Dependency,External or internal dependency
+BudgetItem,Budget allocation line item
+Resource,Human or technical resource used in the project
+ValidationReview,Overall validation and review status
+OpenQuestion,Open question that needs resolution
+ReviewerNote,Note left by a reviewer
+Appendix,Container for additional reference data
+OntologySnapshot,Snapshot of the ontology or graph at a point in time
+GlossaryTerm,Glossary term and its definition
+ProvenanceRecord,Record of a change or event affecting the project
+
